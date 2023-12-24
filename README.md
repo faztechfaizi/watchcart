@@ -1,6 +1,6 @@
 # watchcart
 
-A new Flutter project.
+flutter watch ui.
 
 ## Getting Started
 
